@@ -1,0 +1,2 @@
+Collision_ID,Timestamp,Primary_Drone_ID,Secondary_Drone_ID,Distance,Primary_Location_X,Primary_Location_Y,Primary_Location_Z,Secondary_Location_X,Secondary_Location_Y,Secondary_Location_Z
+1,5.00,Primary,B,1.90,5.00,0.00,0.00,5.00,1.90,0.00
